@@ -1,0 +1,17 @@
+-- Business Insight Queries (Without Solutions)
+
+-- 1. Find the top 10 best-value products based on the discount percentage
+
+-- 2. Products with high MRP but OUT OF STOCK
+
+-- 3. Calculate Estimated Revenue for each category
+
+-- 4. MRP > 500 & discount < 10% (Expensive Products)
+
+-- 5. Top 5 categories that give best average discount
+
+-- 6. Find price per gram for products above 100g and sort by best value
+
+-- 7. Group products into weights - Low, Medium, Bulk
+
+-- 8. Total Inventory Weight Per Category
